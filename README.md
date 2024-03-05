@@ -14,7 +14,7 @@ The data is provided by [Motivate](https://www.motivateco.com/), which is a bike
 * End Station
 * User Type (Subscriber or Customer)
 
-The Chicago and New York City files also contain the following two columns:
+The Chicago, Washington and New York City files also contain the following two columns:
 * Gender
 * Birth Year
 

@@ -32,3 +32,4 @@ The script answers the following questions about the bike share data:
 
 ## Author
 * Prepared by: Mariam Elmasry
+* Contact info: mhelmasr@gmail.com

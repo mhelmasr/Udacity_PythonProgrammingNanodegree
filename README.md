@@ -29,3 +29,6 @@ The script answers the following questions about the bike share data:
 * What are the counts of each user type?
 * What are the counts of gender?
 * What are the earliest (i.e. oldest person), most recent (i.e. youngest person), and most popular birth years?
+
+## Author
+* Prepared by: Mariam Elmasry

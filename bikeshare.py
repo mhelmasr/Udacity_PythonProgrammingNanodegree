@@ -2,6 +2,7 @@ import pandas as pd
 from datetime import datetime
 from datetime import timedelta
 import time
+import numpy as np
 
 # the below is the python scrip to perform the task City bike share program
 ## Filenames
